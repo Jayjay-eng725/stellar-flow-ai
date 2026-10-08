@@ -39,14 +39,17 @@ This project integrates with Stellar blockchain using a Lovable AI-powered proto
 
 ---
 
+## 🖼 Screenshots
 
+### Landing Page
+
+![StellarFlow landing page with the AI payment assistant interface](docs/screenshot-landing.png)
+
+### AI Assistant
+
+![StellarFlow AI assistant conversation screen initiating a Stellar payment](docs/screenshot-assistant.png)
 
 > The video shows the AI interface, sending a transaction, and proof of Stellar integration.
-
----
-
-
-> Replace with your actual website screenshots
 
 ---
 
